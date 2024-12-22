@@ -1,0 +1,29 @@
+{
+  "Teknik & Informatika": [
+    "Teknologi Informasi",
+    "Rekayasa Perangkat Lunak",
+    "Teknologi Komputer",
+    "Sistem Informasi",
+    "Sistem Informasi Akuntansi",
+    "Teknik Elektro",
+    "Teknik Industri",
+    "Ilmu Komputer"
+  ],
+  "Ekonomi & Bisnis": [
+    "Manajemen",
+    "Akuntansi",
+    "Administrasi Bisnis",
+    "Administrasi Perkantoran",
+    "Manajemen Pajak",
+    "Perhotelan",
+    "Hukum Bisnis",
+    "Pariwisata"
+  ],
+  "Komunikasi & Bahasa": [
+    "Ilmu Komunikasi",
+    "Sastra Inggris",
+    "Hubungan Masyarakat",
+    "Penyiaran",
+    "Periklanan"
+  ]
+}

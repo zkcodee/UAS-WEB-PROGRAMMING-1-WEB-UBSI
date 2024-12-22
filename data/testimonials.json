@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "Cristiano Aveiro, S.E",
+    "pekerjaan": "Konsultan Tendangan Penalti",
+    "foto": "./public/assets/img/alumni/ronaldo.webp",
+    "testimoni": "UBSI mengajarkan saya lebih dari sekadar teori, tapi juga bagaimana menjadi pemimpin yang strategis. Melalui jurusan Manajemen, saya memahami pentingnya perencanaan, branding, dan pengelolaan karier yang berkelanjutan. Ilmu ini sangat membantu saya, baik sebagai atlet maupun entrepreneur. Terima kasih UBSI, atas pendidikan yang luar biasa!"
+  },
+  {
+    "nama": "Ricardo Milos, S.Ds",
+    "pekerjaan": "Instruktur Kreativitas Digital",
+    "foto": "./public/assets/img/alumni/ricardo.webp",
+    "testimoni": "Belajar di UBSI adalah pengalaman luar biasa! Jurusan Desain Grafis membuka mata saya terhadap kekuatan seni dan teknologi. Saya belajar bagaimana membuat karya yang tidak hanya estetis, tetapi juga berkomunikasi dengan audiens. Ilmu ini membantu saya menciptakan karya visual yang ikonik dan dikenang oleh banyak orang."
+  },
+  {
+    "nama": "Najwa Shihab, S.I.Kom",
+    "pekerjaan": "Jurnalis Televisi Senior",
+    "foto": "./public/assets/img/alumni/najwa.webp",
+    "testimoni": "UBSI memberikan saya dasar yang kuat untuk menjadi komunikator yang baik. Jurusan Ilmu Komunikasi membantu saya memahami bagaimana menyampaikan pesan dengan jelas dan berdampak. Berkat pembelajaran yang komprehensif di UBSI, saya bisa berdiri teguh sebagai seorang profesional di dunia media."
+  },
+  {
+    "nama": "Barack Obama, S.E",
+    "pekerjaan": "Politisi dan Pemimpin Pemerintahan",
+    "foto": "./public/assets/img/alumni/obama.webp",
+    "testimoni": "Belajar di UBSI memberikan saya landasan yang kuat untuk memahami manajemen dan kepemimpinan. Di kampus ini, saya belajar bagaimana mengelola organisasi, memimpin dengan empati, dan merancang strategi untuk membawa perubahan positif. Pendidikan ini telah membantu saya menjadi pribadi yang siap menghadapi tantangan dunia."
+  },
+  {
+    "nama": "Lionel Messi, S.Kom",
+    "pekerjaan": "Anak Kesayangan Papa",
+    "foto": "./public/assets/img/alumni/messi.webp",
+    "testimoni": "UBSI memberikan saya pemahaman tentang bagaimana teknologi bisa mendukung dunia olahraga. Jurusan Sistem Informasi membantu saya menggabungkan analisis data dengan strategi permainan, membuat saya lebih efektif di lapangan dan membuka peluang baru di luar karier sepak bola. Saya bangga menjadi bagian dari UBSI."
+  }
+]

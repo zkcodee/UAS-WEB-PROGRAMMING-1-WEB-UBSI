@@ -1,0 +1,42 @@
+[
+  {
+    "nama": "Kramat 98",
+    "url": "https://maps.app.goo.gl/wojFtRSh7odGewSC6",
+    "gambar": "./public/assets/img/lokasi/utama/kramat-98.webp"
+  },
+  {
+    "nama": "Dewi Sartika A",
+    "url": "https://maps.app.goo.gl/1efVkbQYugCtnK75A",
+    "gambar": "./public/assets/img/lokasi/utama/dewi-a.webp"
+  },
+  {
+    "nama": "Dewi Sartika B",
+    "url": "https://maps.app.goo.gl/JuykpdX61F1zszTK9",
+    "gambar": "./public/assets/img/lokasi/utama/dewi-b.webp"
+  },
+  {
+    "nama": "Pemuda",
+    "url": "https://maps.app.goo.gl/R9AiJb8jJu8hytYd7",
+    "gambar": "./public/assets/img/lokasi/utama/pemuda.webp"
+  },
+  {
+    "nama": "Kalimalang",
+    "url": "https://maps.app.goo.gl/kzE1UrbbbGmeFRYYA",
+    "gambar": "./public/assets/img/lokasi/utama/kalimalang.webp"
+  },
+  {
+    "nama": "Kaliabang",
+    "url": "https://maps.app.goo.gl/i1K4xNTSBiNDMjWk6",
+    "gambar": "./public/assets/img/lokasi/utama/kaliabang.webp"
+  },
+  {
+    "nama": "Cut Mutiah",
+    "url": "https://maps.app.goo.gl/dhWidpkwLCX3e2vP9",
+    "gambar": "./public/assets/img/lokasi/utama/cutmutiah.webp"
+  },
+  {
+    "nama": "Fatmawati",
+    "url": "https://maps.app.goo.gl/2xjhHWDDurqNUwjF6",
+    "gambar": "./public/assets/img/lokasi/utama/fatmawati.webp"
+  }
+]

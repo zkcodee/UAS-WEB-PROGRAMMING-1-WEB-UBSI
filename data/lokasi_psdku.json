@@ -1,0 +1,42 @@
+[
+  {
+    "nama": "Bogor",
+    "url": "https://maps.app.goo.gl/KaLk9x6UgD3jejDZ6",
+    "gambar": "./public/assets/img/lokasi/psdku/bogor.webp"
+  },
+  {
+    "nama": "Yogyakarta",
+    "url": "https://maps.app.goo.gl/opRwaRo8V9YJjZGm7",
+    "gambar": "./public/assets/img/lokasi/psdku/yogyakarta.webp"
+  },
+  {
+    "nama": "Sukabumi",
+    "url": "https://maps.app.goo.gl/nSgXmf6kY9C9yvzy9",
+    "gambar": "./public/assets/img/lokasi/psdku/sukabumi.webp"
+  },
+  {
+    "nama": "Karawang",
+    "url": "https://maps.app.goo.gl/qdNnLFpWQP8ZJo2MA",
+    "gambar": "./public/assets/img/lokasi/psdku/karawang.webp"
+  },
+  {
+    "nama": "Pontianak",
+    "url": "https://maps.app.goo.gl/ATwEYXtYv6MMcAaz9",
+    "gambar": "./public/assets/img/lokasi/psdku/pontianak.webp"
+  },
+  {
+    "nama": "Tegal",
+    "url": "https://maps.app.goo.gl/NT8tV5xGDy2NGvK68",
+    "gambar": "./public/assets/img/lokasi/psdku/tegal.webp"
+  },
+  {
+    "nama": "Tasikmalaya",
+    "url": "https://maps.app.goo.gl/1WkBppDMobwvXCrK8",
+    "gambar": "./public/assets/img/lokasi/psdku/tasikmalaya.webp"
+  },
+  {
+    "nama": "Purwokerto",
+    "url": "https://maps.app.goo.gl/KJP8fmu4Z6x7NFHr9",
+    "gambar": "./public/assets/img/lokasi/psdku/purwokerto.webp"
+  }
+]
