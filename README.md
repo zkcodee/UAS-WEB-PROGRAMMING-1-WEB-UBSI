@@ -1,5 +1,5 @@
-## 📝 QuiPy - Aplikasi Quiz Sederhana 📝
-Aplikasi sederhana berbasis CLI yang dibuat dengan bahasa pemrograman Python, Program ini dibuat untuk memenuhi tugas akhir semester 1 mata kuliah Dasar Pemrograman.
+## 📝 Web Kampus UBSI sederhana 📝
+Web Kampus UBSI sederhana yang dibuat menggunakan HTML,CSS,PHP dan framework tailwindcss. Web ini dibuat guna memenuhi nilai UAS pada matakuliah WEB PEROGRAMING 1
 
 
 
@@ -8,19 +8,15 @@ Aplikasi sederhana berbasis CLI yang dibuat dengan bahasa pemrograman Python, Pr
 - Zaky Daffa Fiddien (17230060)
 - Anjar Nur Afif (17230361)
 - Ridho Adhitama Ramadhan (17230457)
-- Aura Safitri Rahmadhani (17230244)
+- Akbar Wibowo Laksono Putra (1723)
 
 ### 💡 Persyaratan sistem
-- Python 3.x.x
-- Python Pip 23.x.x
+- XAMPP
 
-### ⚖️ Package
-- random Standard Library
-- time Standard Library
-- termcolor 2.3.0
-- prettytable 3.9.0
+### ⚖️ Library
+- tailwindcss docs
 
 ### 🔨 Referensi & Tools
 - Visual Studio Code
 - Git Bash
-- Python Doc
+- Web BSI resmi
