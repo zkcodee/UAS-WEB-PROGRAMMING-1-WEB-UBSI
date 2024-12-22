@@ -8,13 +8,13 @@ Web Kampus UBSI sederhana yang dibuat menggunakan HTML,CSS,PHP dan framework tai
 - Zaky Daffa Fiddien (17230060)
 - Anjar Nur Afif (17230361)
 - Ridho Adhitama Ramadhan (17230457)
-- Akbar Wibowo Laksono Putra (1723)
+- Akbar Wibowo Laksono Putra (17230291)
 
 ### 💡 Persyaratan sistem
 - XAMPP
 
-### ⚖️ Library
-- tailwindcss docs
+### ⚖️ Framework CSS 
+- tailwindcss 
 
 ### 🔨 Referensi & Tools
 - Visual Studio Code
